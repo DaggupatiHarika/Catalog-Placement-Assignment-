@@ -96,3 +96,7 @@ public class ShamirSecretSharing {
         System.out.println("The constant term 'c' is: " + Math.round(constantTerm));
     }
 }
+
+
+// Output: The constant term 'c' is: 3
+
